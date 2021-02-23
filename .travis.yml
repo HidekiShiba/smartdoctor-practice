@@ -1,5 +1,7 @@
 sudo: required
 
+rvm: 2.5.8
+
 services: docker
 
 before_install:
